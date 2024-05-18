@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 26.04.2024
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -49,7 +49,8 @@
 
 ### Name:BHAVATHARANI S
 ### Register Number:212223230032
-![Uploading image.png…]()
+![image](https://github.com/bhavatharanisiva7418/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147473922/2a5b465a-ecd0-418f-84d9-ab6df3544d81)
+
 
 
 ## RESULT:
